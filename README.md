@@ -1,16 +1,29 @@
-## Hi there 👋
+# Principes de Gestalt dans la Visualisation de Données
 
-<!--
-**2734316-cell/2734316-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Contexte
+Projet académique portant sur l’analyse critique de dashboards financiers
+(Revenus et Dépenses) à travers les principes de Gestalt appliqués
+à la visualisation de données.
 
-Here are some ideas to get you started:
+## 🎯 Objectifs
+- Identifier les erreurs de perception visuelle dans des graphiques
+- Analyser l’impact de ces erreurs sur la compréhension des données
+- Proposer des recommandations pour améliorer la lisibilité et réduire la charge cognitive
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Principes de Gestalt analysés
+- Loi de similarité
+- Loi de proximité
+- Loi figure / fond
+- Loi de clôture
+
+## 📊 Résultats & recommandations (exemples)
+- Uniformiser et rendre cohérent le codage couleur
+- Augmenter les contrastes (figure/fond)
+- Réduire la densité des courbes et améliorer la lisibilité
+- Afficher clairement les pourcentages et trier les valeurs
+
+## 👤 Auteur
+**Yanisse Touazi**  
+GitHub : https://github.com/2734316-cell  
+LinkedIn : https://www.linkedin.com/in/yanis-touazi-248892293  
+Email : touaziyanis72@gmail.com
